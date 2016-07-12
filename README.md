@@ -1,5 +1,5 @@
 # Khamurda.Andrii
-Practical task of Khamurda Andrii on Eleks Internship (June 2016)
+Practical task of Khamurda Andrii on Eleks Internship (July 2016)
 
 ## Student Info
   
